@@ -5,3 +5,4 @@
 ### Programación Funcional
 ### Estudiante: Felipe Neri Gonzalez Martinez
 ### Profesor: Dr. Walter Alexander Mata López 
+# Parcial 2
